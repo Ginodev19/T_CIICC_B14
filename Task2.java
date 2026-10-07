@@ -11,7 +11,7 @@ public class Task2 {
         float z = 2.0f;
         boolean yes = true;
 
-    System.out.println(h+""+three+eleven+zero+" "+w+""+r+""+l+ ""+d+" "+z+" "+yes);
+    System.out.println(h+""+three+eleven+zero+" "+w+""+zero+r+""+l+ ""+d+" "+z+" "+yes);
 
 
     }
